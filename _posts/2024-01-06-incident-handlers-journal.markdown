@@ -1,8 +1,8 @@
 ---
 layout: default
 modal-id: 5
-title: Incident Handlers Journal
-img: handlersjournal.png
+title: SQL Project
+img: sql.png
 alt: image-alt
 
 # Add the link to your journal below
