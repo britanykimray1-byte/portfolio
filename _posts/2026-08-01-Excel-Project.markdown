@@ -1,13 +1,7 @@
----
 layout: default
 modal-id: 3
 title: Excel Project
 img: statistics.png
 alt: image-alt
-
-# Reminder: Update this link with your own project link
-project-url: 
-
-# Once you've completed your project, update the 'description' below to this one: Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
-description: This project is in progress and not ready to be published just yet. Please contact me if you'd like a sneak peek. Otherwise, stay tuned!
----
+project-url: https://docs.google.com/spreadsheets/d/1S2f0QmkEOuzLMDtrEYLSVeUVfaIAXlO9zNdN1EPTl6w/edit?usp=sharing
+description: Leveraged sales data to create dynamic visualizations, including monthly sales trends, salesperson performance, and sales percentages. Designed an intuitive dashboard in Microsoft Excel that provides real-time access to critical sales information, enhancing data accessibility and facilitating informed decision-making for cross-functional teams.
