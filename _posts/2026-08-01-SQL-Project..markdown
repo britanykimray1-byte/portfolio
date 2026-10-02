@@ -4,10 +4,6 @@ modal-id: 5
 title: SQL Project
 img: sql.png
 alt: image-alt
-
-# Add the link to your journal below
-project-url:
-
-# Once you've completed your project, update the 'description' below to this one: Provided clear and concise written documentation of cybersecurity events, including detailed event descriptions, tools used, and lessons learned throughout the process.
-description: This project is in progress and not ready to be published just yet. Please contact me if you'd like a sneak peek. Otherwise, stay tuned!
+project-url: https://docs.google.com/document/d/1qR76CwgvKkvLDKVy6KSupek6ljrghe1cJgFYkWBOIlk/edit?usp=sharing
+description: Queried HUD's public Point-in-Time homelessness dataset in Google BigQuery using SQL to uncover national trends and identify regions most in need of additional shelter resources for homeless youth and veterans, then documented the full analysis, findings, and recommended next steps.
 ---
